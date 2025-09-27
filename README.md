@@ -1,5 +1,5 @@
 # TaskDisplay
-manage your daily task from arduino
+Manage your daily tasks from Arduino
 
 HARDWARE NEEDED:
 - LCD 16x2 screen with I2C
@@ -7,4 +7,4 @@ HARDWARE NEEDED:
 
 IDEA OF THE PROJECT
 - Creating and displaying tasks, making changes, and deleting them
-- User can add new tasks by eneting them to the serial
+- The user can add new tasks by entering them into the serial
